@@ -1,0 +1,2 @@
+# hello-cqrs
+Hello, CQRS!
