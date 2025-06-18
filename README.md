@@ -11,3 +11,9 @@ make sync
 ```bash
 make run
 ```
+
+## Running Tests
+
+```bash
+make test
+```
